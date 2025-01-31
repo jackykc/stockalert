@@ -8,3 +8,4 @@ Currently supported:
 * Retailer - Bestbuy.ca
 * Notification - SMS (private)
 * Notification - Discord (private)
+*
